@@ -26,6 +26,7 @@ signature = {
 	r8\downbow r4\downbow r8\downbow r4\downbow  r4\downbow r4\downbow
 }
 
+\transpose do do {
 <<
 
 \chords {
@@ -45,3 +46,4 @@ signature = {
 	ε -- ξε -- κί -- νη -- σα
 }
 >>
+}
